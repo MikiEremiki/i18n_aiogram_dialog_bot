@@ -1,4 +1,4 @@
-Адаптированный вариант из кода с курса по ботам на степике https://stepik.org/course/153850 (модуль 6.4) и примера Тишки https://github.com/Tishka17/aiogram_dialog/tree/develop/example/i18n
+Адаптированный вариант из кода с [курса](https://stepik.org/course/153850) по ботам на степике (модуль 6.4) и [примера](https://github.com/Tishka17/aiogram_dialog/tree/develop/example/i18n) Тишки 
 
 Отличается: 
 - [мидлварю](https://github.com/MikiEremiki/i18n_aiogram_dialog_bot/blob/main/src/middlewares/i18n_middlewares.py)
