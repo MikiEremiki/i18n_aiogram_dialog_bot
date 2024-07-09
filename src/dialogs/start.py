@@ -27,7 +27,7 @@ async def button_click(
 
 start_dialog = Dialog(
     Window(
-        I18NFormat('hello-user', ['username']),
+        I18NFormat('hello-user'),
         Button(I18NFormat('button-button'),
                id='button_pressed',
                on_click=button_click),
